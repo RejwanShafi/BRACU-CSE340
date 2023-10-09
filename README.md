@@ -1,2 +1,4 @@
-# CSE340--Fall-2023---STK-
- This repository includes the slides, class notes, assignments, and quiz questions and soluions
+# Course Code: **CSE340**-
+# Course Name: Computer Architecture
+# Semester Code: *Fall 2023*
+# Faculty: STK [Sumaiya Tanjil Khan]
