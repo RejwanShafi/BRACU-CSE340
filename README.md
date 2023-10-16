@@ -17,3 +17,6 @@ Faculty: STK [Sumaiya Tanjil Khan]
 
 > Nabuat sir's playlist
 	https://youtube.com/playlist?list=PLikUdyNwudnMjTb4zMnZ6BX77y1YUgFcd&si=WGCAKFVuIJiACHkC
+
+>BUX Playlist
+	will upload the playlist tomorrow 
