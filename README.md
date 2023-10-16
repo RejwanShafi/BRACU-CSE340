@@ -10,7 +10,10 @@ Faculty: STK [Sumaiya Tanjil Khan]
 	https://drive.google.com/drive/folders/1S97XmH4r7VGtM3uLEkWESB30LCyTT7GW?usp=sharing
 
 > FNK mam's playlist
-	 
+	 https://www.youtube.com/playlist?list=PLsheiwzPKqWd_I5uRzJIDMhfYJD35WZY5
+
+> ZWB mam's slides and practice sheets
+	https://drive.google.com/drive/folders/1mPbTIwFi6zwJsmcXAK_qckiQkx8d5e0n?usp=drive_link
 
 > Nabuat sir's playlist
 	https://youtube.com/playlist?list=PLikUdyNwudnMjTb4zMnZ6BX77y1YUgFcd&si=WGCAKFVuIJiACHkC
