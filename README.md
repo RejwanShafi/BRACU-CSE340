@@ -6,6 +6,13 @@ Semester Code: *Fall 2023*
 
 Faculty: STK [Sumaiya Tanjil Khan]
 
+--------------------------------------------
+In this semester the curriculum was based on MIPS architecture
+
+But from the Spring 2024 semester the architecture is based on RiscV Architecture
+
+---------------------------------------------
+
 > FNK mam's supplementary slides 
 
 	https://drive.google.com/drive/folders/1S97XmH4r7VGtM3uLEkWESB30LCyTT7GW?usp=sharing
