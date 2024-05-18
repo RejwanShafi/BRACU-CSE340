@@ -7,10 +7,15 @@ Semester Code: *Fall 2023*
 Faculty: STK [Sumaiya Tanjil Khan]
 
 --------------------------------------------
-In this semester the curriculum was based on MIPS architecture
+Our Syllabus for CSE340 was Chapter 1,2,3,4 (Including Mid & Final)
 
-But from the Spring 2024 semester the architecture is based on RiscV Architecture
+`When I did this course the syllabus was based on MIPS Architecture. But currently, BRACU is following RiscV architecture. So, for RiscV architecture materials I would suggest you to go through Partho Bhoumick sir's playlist and class notes.`
 
+> Partho Bhoumik Sir’s Playlist
+ 	https://www.youtube.com/@parthabhoumik1227
+
+> Partho sir’s class notes Handouts
+	https://drive.google.com/drive/folders/1Z547QIbfTzjJouL1GxC87FDcmHaLgTgQ
 ---------------------------------------------
 
 > FNK mam's supplementary slides 
